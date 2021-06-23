@@ -34,5 +34,3 @@ def main():
 
 
 main()
-# w_check('./cell_south-002_digit_6_3_3.png')
-# w_check('./cell_south-072_digit_8_20_0.png')
